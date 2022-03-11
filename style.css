@@ -1276,7 +1276,7 @@ header{
 .services-homepage{
   height: 620px;
   position: relative;
-  background: url('/public/img/Rectangle\ 20.jpg') no-repeat center center/cover;
+  background: url('img/Rectangle\ 20.jpg') no-repeat center center/cover;
 }
 
 .services-menu{
